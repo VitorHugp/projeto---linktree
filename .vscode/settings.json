@@ -1,0 +1,35 @@
+{
+
+  "editor.formatOnSave": true,
+
+
+  "editor.tabSize": 2,
+
+
+  "editor.insertSpaces": true,
+
+
+  "editor.wordWrap": "on",
+
+
+  "files.trimTrailingWhitespace": true,
+
+
+  "files.insertFinalNewline": true,
+
+
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true
+  },
+
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
